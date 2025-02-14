@@ -9,7 +9,7 @@ Choose Directories Select directories from the added paths to refine your photo 
 .. raw:: html
 
     <video width="720" height="400" controls>
-        <source src="../figs/step12_import_and_show.webm" type="video/webm">
+        <source src="https://raw.githubusercontent.com/erdogant/PhotoSenseAI/main/docs/figs/step12_import_and_show.webm" type="video/webm">
         Your browser does not support the video tag.
     </video>
     
@@ -21,7 +21,7 @@ Group Images Use advanced clustering methods like Picture Content, Date, or Loca
 .. raw:: html
 
     <video width="720" height="400" controls>
-        <source src="../figs/step3_grouping.webm" type="video/webm">
+        <source src="https://raw.githubusercontent.com/erdogant/PhotoSenseAI/main/docs/figs/step3_grouping.webm" type="video/webm">
         Your browser does not support the video tag.
     </video>
 
@@ -33,7 +33,7 @@ Detect Duplicates Identify duplicate photos with customizable sensitivity settin
 .. raw:: html
 
     <video width="720" height="400" controls>
-        <source src="../figs/step4_duplicates.webm" type="video/webm">
+        <source src="https://raw.githubusercontent.com/erdogant/PhotoSenseAI/main/docs/figs/step4_duplicates.webm" type="video/webm">
         Your browser does not support the video tag.
     </video>
 
@@ -46,7 +46,7 @@ Export Groups into Folders Organize your grouped photos by exporting them into f
 .. raw:: html
 
     <video width="720" height="400" controls>
-        <source src="../figs/export.webm" type="video/webm">
+        <source src="https://raw.githubusercontent.com/erdogant/PhotoSenseAI/main/docs/figs/export.webm" type="video/webm">
         Your browser does not support the video tag.
     </video>
 
