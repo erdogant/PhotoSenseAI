@@ -1,0 +1,2 @@
+include PhotoSenseAI/data/*.zip
+include PhotoSenseAI/data/*.txt
