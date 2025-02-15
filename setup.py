@@ -13,13 +13,13 @@ else:
 with open("README.md", "r", encoding="utf8") as fh:
     long_description = fh.read()
 setuptools.setup(
-     install_requires=['matplotlib','numpy','pandas','tqdm','requests','datazets'],
+     install_requires=[],
      python_requires='>=3',
      name='PhotoSenseAI',
      version=new_version,
      author="Erdogan Taskesen",
      author_email="erdogant@gmail.com",
-     description="Python package PhotoSenseAI",
+     description="PhotoSenseAI",
      long_description=long_description,
      long_description_content_type="text/markdown",
      url="https://github.com/erdogant/PhotoSenseAI",
@@ -29,7 +29,7 @@ setuptools.setup(
      license_files=["LICENSE"],
      classifiers=[
          "Programming Language :: Python :: 3",
-         "License :: OSI Approved :: MIT License",
+         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
          "Operating System :: OS Independent",
      ],
  )
