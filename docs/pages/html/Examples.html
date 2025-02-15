@@ -6,7 +6,7 @@
   <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Examples &mdash; PhotoSenseAI PhotoSenseAI documentation</title>
+  <title>Scenes images (Medium data set) &mdash; PhotoSenseAI PhotoSenseAI documentation</title>
       <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
       <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=e59714d7" />
       <link rel="stylesheet" type="text/css" href="_static/css/custom.css?v=e0179649" />
@@ -70,7 +70,8 @@
 </ul>
 <p class="caption" role="heading"><span class="caption-text">Example Dataset</span></p>
 <ul class="current">
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Examples</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Scenes images (Medium data set)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#caltech-101-very-large-data-set">Caltech 101 (very large data set)</a></li>
 </ul>
 <p class="caption" role="heading"><span class="caption-text">Terms and Conditions</span></p>
 <ul>
@@ -101,7 +102,7 @@
           <div role="navigation" aria-label="Page navigation">
   <ul class="wy-breadcrumbs">
       <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
-      <li class="breadcrumb-item active">Examples</li>
+      <li class="breadcrumb-item active">Scenes images (Medium data set)</li>
       <li class="wy-breadcrumbs-aside">
             <a href="_sources/Examples.rst.txt" rel="nofollow"> View page source</a>
       </li>
@@ -111,8 +112,8 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
              
-  <section id="examples">
-<h1>Examples<a class="headerlink" href="#examples" title="Link to this heading"></a></h1>
+  <section id="scenes-images-medium-data-set">
+<h1>Scenes images (Medium data set)<a class="headerlink" href="#scenes-images-medium-data-set" title="Link to this heading"></a></h1>
 <p>In this section we will use toy data sets for demonstration purposes.</p>
 <p>A small data set containing three catagories is the <strong>Scenes</strong> [toy-example-data set](<a class="reference external" href="https://github.com/erdogant/erdogant.github.io/blob/master/datasets/scenes.zip?raw=true">https://github.com/erdogant/erdogant.github.io/blob/master/datasets/scenes.zip?raw=true</a>)
 This data set contains a few hundred images over 3 catagories which can use to cluster based on the picture content.</p>
@@ -126,7 +127,10 @@ This data set contains a few hundred images over 3 catagories which can use to c
 <video width="720" height="400" controls>
     <source src="https://raw.githubusercontent.com/erdogant/PhotoSenseAI/main/docs/figs/export.webm" type="video/webm">
     Your browser does not support the video tag.
-</video><p>A large data set is the [Caltech 101 objects data set](<a class="reference external" href="https://data.caltech.edu/records/mzrjq-6wc02/files/caltech-101.zip?download=1">https://data.caltech.edu/records/mzrjq-6wc02/files/caltech-101.zip?download=1</a>).
+</video></section>
+<section id="caltech-101-very-large-data-set">
+<h1>Caltech 101 (very large data set)<a class="headerlink" href="#caltech-101-very-large-data-set" title="Link to this heading"></a></h1>
+<p>A large data set is the [Caltech 101 objects data set](<a class="reference external" href="https://data.caltech.edu/records/mzrjq-6wc02/files/caltech-101.zip?download=1">https://data.caltech.edu/records/mzrjq-6wc02/files/caltech-101.zip?download=1</a>).
 The dataset contains 9.144 real-world images belonging to 101 categories.
 About 40 to 800 images per category. The size of each image is roughly 300 x 200 pixels and can be downloaded at the Caltech website.
 When we add the directory of the images to PhotoSense AI, All images in subdirectories will be recursively collected and processed.</p>
@@ -134,10 +138,7 @@ When we add the directory of the images to PhotoSense AI, All images in subdirec
 <p class="admonition-title">Note</p>
 <p>Read the blog [Step by step guide to clustering images](<a class="reference external" href="https://medium.com/towards-data-science/a-step-by-step-guide-for-clustering-images-4b45f9906128">https://medium.com/towards-data-science/a-step-by-step-guide-for-clustering-images-4b45f9906128</a> for more details.</p>
 </div>
-<video width="720" height="400" controls>
-    <source src="https://raw.githubusercontent.com/erdogant/PhotoSenseAI/main/docs/figs/caltech_dataset_load.webm" type="video/webm">
-    Your browser does not support the video tag.
-</video><p>On my machine (32GB internal memory), this amount of images is clearly the limit of what can be analyzed.
+<p>On my machine (32GB internal memory), this amount of images is clearly the limit of what can be analyzed.
 One way to keep on going it to lower the thumbnail resolution to 64 in the configurations to prevent out-of-memory issues.
 However, when doing so, the low resolution images will have negative impact on the accuracy of the clustering results.
 After waiting a couple of minutes, the thumbnails were loaded and could cluster on <strong>Picture Content</strong> in Step 3.</p>
@@ -150,7 +151,10 @@ After waiting a couple of minutes, the thumbnails were loaded and could cluster 
 </tr>
 </tbody>
 </table>
-<hr>
+<video width="720" height="400" controls>
+    <source src="https://raw.githubusercontent.com/erdogant/PhotoSenseAI/main/docs/figs/caltech_dataset_load.webm" type="video/webm">
+    Your browser does not support the video tag.
+</video><hr>
 <center>
         <script async src="https://media.ethicalads.io/media/client/ethicalads.min.js"></script>
         <!-- Show an image ad -->

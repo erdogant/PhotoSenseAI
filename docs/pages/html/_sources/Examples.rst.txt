@@ -1,4 +1,4 @@
-Examples
+Scenes images (Medium data set)
 ################################
 
 In this section we will use toy data sets for demonstration purposes.
@@ -26,6 +26,8 @@ This data set contains a few hundred images over 3 catagories which can use to c
     
 
 
+Caltech 101 (very large data set)
+###################################
 
 A large data set is the [Caltech 101 objects data set](https://data.caltech.edu/records/mzrjq-6wc02/files/caltech-101.zip?download=1).
 The dataset contains 9.144 real-world images belonging to 101 categories.
@@ -35,14 +37,6 @@ When we add the directory of the images to PhotoSense AI, All images in subdirec
 .. note::
 
     Read the blog [Step by step guide to clustering images](https://medium.com/towards-data-science/a-step-by-step-guide-for-clustering-images-4b45f9906128 for more details.
-
-
-.. raw:: html
-
-    <video width="720" height="400" controls>
-        <source src="https://raw.githubusercontent.com/erdogant/PhotoSenseAI/main/docs/figs/caltech_dataset_load.webm" type="video/webm">
-        Your browser does not support the video tag.
-    </video>
 
 
 
@@ -64,6 +58,11 @@ After waiting a couple of minutes, the thumbnails were loaded and could cluster 
    | |figE3|  |
    +----------+
 
+.. raw:: html
 
+    <video width="720" height="400" controls>
+        <source src="https://raw.githubusercontent.com/erdogant/PhotoSenseAI/main/docs/figs/caltech_dataset_load.webm" type="video/webm">
+        Your browser does not support the video tag.
+    </video>
 
 .. include:: add_bottom.add

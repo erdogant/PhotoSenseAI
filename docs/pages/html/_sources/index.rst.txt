@@ -25,7 +25,7 @@ Nowadays we have thousands of digital memories which often leads to chaos in fin
 	* Custom Labels: Rename groups, adjust categories, and organize your images in a way that makes sense to you.
 	* Dynamic Thumbnails: Choose the size of your thumbnails for a customized viewing experience.
 	* Map Visualization: View your photos on an interactive map to see where your memories were captured.
-	* There are **no costs** in using this app but a **coffee donation** will make you feel better! I like coffee!
+	* There are **no costs** in using this app but a **coffee donation** will make new versions better! I like coffee!
 
 
 -----------------------------------
