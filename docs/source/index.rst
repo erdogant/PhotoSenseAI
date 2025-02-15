@@ -79,6 +79,12 @@ Content
 
   Terms and Conditions
 
+.. toctree::
+  :maxdepth: 1
+  :caption: Download
+
+  Download
+
 
 .. toctree::
   :maxdepth: 1
