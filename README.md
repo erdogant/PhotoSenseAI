@@ -20,3 +20,4 @@ Welcome to the PhotoSense AI – your solution for organizing your photo collect
 ---
 More details can be found at the [documentation pages](https://erdogant.github.io/PhotoSenseAI/pages/html/index.html)
 
+![PhotoSense Main](https://github.com/erdogant/PhotoSenseAI/blob/main/docs/figs/photosense_main.png)
