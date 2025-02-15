@@ -9,9 +9,22 @@
 
 
 
-Welcome to the PhotoSense AI – your solution for organizing your photo collections with ease using Artificial Intelligence (AI)! Nowadays we can have hundreds or even thousands of digital memories but this often leads to chaos and time-consuming work to organize the photos. At some point, we may even dump all photos in a “various” directory and then these memories can be hard to find. This tool is designed to bring order to your chaos.
+**Welcome to the PhotoSense AI** – your solution for organizing your photo collections with ease using Artificial Intelligence (AI)
 
-* Automatic Clustering: Group photos by date, location, or visual content using advanced techniques.
-* Custom Labels: Rename groups, adjust categories, and organize your images in a way that makes sense to you.
-* Dynamic Thumbnails: Choose the size of your thumbnails for a customized viewing experience.
-* Map Visualization: View your photos on an interactive map to see where your memories were captured.
+Nowadays we have thousands of digital memories which often leads to chaos in finding and organizing photos. At some point, we may even dump all pictures in a “various” directory and then leave it for what it is. This tool is designed to bring order to your chaos!
+
+* **Automatic Clustering:** Group photos by date, location, or visual content using advanced techniques.
+* **Privacy:** This tool runs offline and locally.
+* **Custom Labels:** Rename groups, adjust categories, and organize your images in a way that makes sense to you.
+* **Dynamic Thumbnails:** Choose the size of your thumbnails for a customized viewing experience.
+* **Map Visualization:** View your photos on an interactive map to see where your memories were captured.
+* There are **no costs** in using this app but a **coffee donation** will make you feel better! I like coffee!
+
+
+---
+More details can be found at the [documentation pages](https://erdogant.github.io/PhotoSenseAI/pages/html/index.html)
+
+![PhotoSense Main](https://github.com/erdogant/PhotoSenseAI/blob/main/docs/figs/photosense_main.png)
+
+
+<a href="https://www.buymeacoffee.com/erdogant"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=erdogant&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
