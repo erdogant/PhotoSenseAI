@@ -15,3 +15,8 @@ Welcome to the PhotoSense AI – your solution for organizing your photo collect
 * Custom Labels: Rename groups, adjust categories, and organize your images in a way that makes sense to you.
 * Dynamic Thumbnails: Choose the size of your thumbnails for a customized viewing experience.
 * Map Visualization: View your photos on an interactive map to see where your memories were captured.
+
+
+---
+More details can be found at the [documentation pages](https://erdogant.github.io/PhotoSenseAI/pages/html/index.html)
+
