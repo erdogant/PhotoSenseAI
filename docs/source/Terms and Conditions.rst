@@ -39,9 +39,9 @@ By accessing or using PhotoSense (hereinafter referred to as "the App"), you agr
 Use License
 ''''''''''''''''''''''''''''''
 
-Permission is granted to use the App solely for personal or educational purposes and not commercial use:
+Permission is granted to use the App for personal and/or educational purposes:
 
-You may not use the materials for any commercial purpose;
+You may not use the materials for any commercial purpose without notifying the author;
 You may not attempt to decompile or reverse engineer any software contained within the App;
 You may not remove any copyright or other proprietary notations from the materials;
 You may not transfer the materials to another person or "mirror" the materials on any other server;
