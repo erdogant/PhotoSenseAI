@@ -9,7 +9,9 @@
 
 
 
-Welcome to the PhotoSense AI – your solution for organizing your photo collections with ease using Artificial Intelligence (AI)! Nowadays we can have hundreds or even thousands of digital memories but this often leads to chaos and time-consuming work to organize the photos. At some point, we may even dump all photos in a “various” directory and then these memories can be hard to find. This tool is designed to bring order to your chaos.
+**Welcome to the PhotoSense AI** – your solution for organizing your photo collections with ease using Artificial Intelligence (AI)!
+
+Nowadays we have thousands of digital memories which often leads to chaos in finding and organizing photos. At some point, we may even dump all pictures in a “various” directory and then leave it for what it is. This tool is designed to bring order to your chaos!
 
 * Automatic Clustering: Group photos by date, location, or visual content using advanced techniques.
 * Custom Labels: Rename groups, adjust categories, and organize your images in a way that makes sense to you.
