@@ -85,13 +85,11 @@ Content
 
   Download
 
-
 .. toctree::
   :maxdepth: 1
   :caption: Documentation
   
   Documentation
-  PhotoSenseAI.PhotoSenseAI
 
 
 .. include:: add_bottom.add

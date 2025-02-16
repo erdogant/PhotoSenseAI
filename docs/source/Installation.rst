@@ -3,7 +3,11 @@ Installation
 
 
 After downloading ``PhotoSenseAI``, it can be installed by double-clicking on the file to start the regular Windows installation wizard.
-After following the steps in the installation wizard, ``PhotoSenseAI`` will be installed on disk for local use.
+After following the steps in the installation wizard, ``PhotoSenseAI`` will be installed on disk for local use. 
+
+.. note::
+
+    When you start PhotoSenseAI for the first time, it can take some time. Be patient.
 
 .. |fig2a| image:: ../figs/install_step1.png
 .. |fig2b| image:: ../figs/install_step2.png
