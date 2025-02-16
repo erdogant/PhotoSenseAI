@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://erdogant.github.io/PhotoSenseAI/">
+  <img src="https://github.com/erdogant/PhotoSenseAI/blob/master/docs/figs/logo.png" width="400" />
+  </a>
+</p>
+
 # PhotoSenseAI
 
 [![Docs](https://img.shields.io/badge/Sphinx-Docs-Green)](https://erdogant.github.io/PhotoSenseAI/)
