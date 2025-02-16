@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# PhotoSenseAI
+# PhotoSense AI - Organize your memories intelligently.
 
 [![Docs](https://img.shields.io/badge/Sphinx-Docs-Green)](https://erdogant.github.io/PhotoSenseAI/)
 [![Issues](https://img.shields.io/github/issues/erdogant/PhotoSenseAI.svg)](https://github.com/erdogant/PhotoSenseAI/issues)
