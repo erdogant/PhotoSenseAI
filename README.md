@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://erdogant.github.io/PhotoSenseAI/">
-  <img src="https://github.com/erdogant/PhotoSenseAI/blob/master/docs/figs/logo.png" width="400" />
-  </a>
-</p>
+![PhotoSense Main](https://github.com/erdogant/PhotoSenseAI/blob/main/docs/figs/logo.png)
 
 # PhotoSense AI - Organize your memories intelligently.
 
