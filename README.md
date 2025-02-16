@@ -25,7 +25,8 @@ Nowadays we have thousands of digital memories which often leads to chaos in fin
 
 ---
 More details can be found at the [documentation pages](https://erdogant.github.io/PhotoSenseAI/pages/html/index.html).
-Download PhotoSenseAI [here](https://erdogant.github.io/PhotoSenseAI/pages/html/Download.html)
+
+[Download PhotoSenseAI](https://erdogant.github.io/PhotoSenseAI/pages/html/Download.html)
 
 ![PhotoSense Main](https://github.com/erdogant/PhotoSenseAI/blob/main/docs/figs/photosense_main.png)
 
