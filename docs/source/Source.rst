@@ -1,3 +1,6 @@
+Import Images
+##############
+
 Choose Directories
 '''''''''''''''''''''''''''''''''''''''''''
 
@@ -10,11 +13,14 @@ Once you add a directory, it will appear in a list under Step 2. This list helps
 
 
 
+.. |fig7a| image:: ../figs/import_images.png
 .. |fig4| image:: ../figs/step23_sidebar.png
 
 .. table:: Selection of directories
    :align: center
 
+   +----------+
+   | |fig7a|  |
    +----------+
    | |fig4|   |
    +----------+
@@ -27,6 +33,30 @@ Step 3 allows you to review and modify the selected directories before proceedin
 
 By carefully managing your selected directories, you can control which images will be processed and analyzed. This is particularly useful when working with large datasets or when you need to focus on specific image collections.
 
+
+Export Images
+##############
+
+After you have organized your photos into albums and labeled the duplicate images, it is time to export or re-organize the images on disk.
+In step 5 we can either ``COPY`` or ``MOVE`` the images to a destination directory based on the selected group-labels.
+
+.. |fig7b| image:: ../figs/export_step5.png
+.. |fig7c| image:: ../figs/export_disk.png
+
+.. table:: Import and export images
+   :align: center
+
+   +----------+
+   | |fig7b|  |
+   +----------+
+   | |fig7c|  |
+   +----------+
+
+
+
+.. warning::
+
+    The Export functionality will physically move or copy the photos on your disk. 
 
 
 .. include:: add_bottom.add
