@@ -4,9 +4,9 @@ Privacy
 User Privacy
 ''''''''''''''''''''''''''''''
 
-PhotoSense AI is build with user privacy at its core. By ensuring that all photo data is processed locally within the application, and no data is transfered to external servers there is no exposure to privacy risks.
+PhotoSense AI is built with user privacy at its core. By ensuring that all photo data is processed locally within the application, and no data is transferred to external servers, there is no exposure to privacy risks.
 
-PhotoSense has no storage server or what so ever. It is thus not possible to save your session or photos persistently in the app.
+PhotoSense has no storage server or whatsoever. It is thus not possible to save your session or photos persistently in the app.
 
 
 
@@ -18,9 +18,9 @@ While PhotoSense AI prioritizes user privacy by operating locally, this design c
 
 This can lead to slower processing times and longer waits for tasks to complete, especially when handling complex operations or large datasets.
 
-PhotoSense AI uses user-defined filters, smart caching, various viewing resolution among othersfor speed improvements. While these trade-offs ensure that sensitive user data remains private and secure, they may impact the efficiency of workflows for users with extensive photo collections.
+PhotoSense AI uses user-defined filters, smart caching, and various viewing resolutions, among others, for speed improvements. While these trade-offs ensure that sensitive user data remains private and secure, they may impact the efficiency of workflows for users with extensive photo collections.
 
-If a session is Accidentally destroyed by for example a website time-out, all data needs to be processed again. It is therefore adviced to limit the number of photos to be processed. Think of a maximum of 300 photos (each ~2Mb in size) per session. I did experiment with ~500 Iphone photos (sized between 0.5-2Mb) and could process the photos within a couple of minutes.
+If a session is accidentally destroyed by, for example, a website time-out, all data needs to be processed again. It is therefore advised to limit the number of photos to be processed. Think of a maximum of 300 photos (each ~2MB in size) per session. I did experiment with ~500 iPhone photos (sized between 0.5-2MB) and could process the photos within a couple of minutes.
 
 Balancing between privacy and performance remains a key consideration, with ongoing efforts to optimize processing efficiency while maintaining the highest standards of data protection.
 

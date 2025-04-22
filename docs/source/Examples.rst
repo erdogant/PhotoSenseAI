@@ -1,11 +1,11 @@
-Scenes images (Medium data set)
+Scenes images (Medium dataset)
 ################################
 
-In this section we will use toy data sets for demonstration purposes.
+In this section, we will use toy datasets for demonstration purposes.
 
-A small data set containing three categories is the **Scenes** 
-`toy-example-data set <https://github.com/erdogant/erdogant.github.io/blob/master/datasets/scenes.zip?raw=true>`_  
-This data set contains a few hundred images over 3 categories which can be used to cluster based on the picture content.
+A small dataset containing three categories is the **Scenes** 
+`toy-example dataset <https://github.com/erdogant/erdogant.github.io/blob/master/datasets/scenes.zip?raw=true>`_  
+This dataset contains a few hundred images over 3 categories which can be used to cluster based on the picture content.
 
 
 .. |figE1| image:: ../figs/photosense_main.png
@@ -27,13 +27,13 @@ This data set contains a few hundred images over 3 categories which can be used 
     
 
 
-Caltech 101 (very large data set)
+Caltech 101 (very large dataset)
 ###################################
 
-A large data set is the `Caltech 101 objects data set <https://data.caltech.edu/records/mzrjq-6wc02/files/caltech-101.zip?download=1>`_.
-The dataset contains 9.144 real-world images belonging to 101 categories.
+A large dataset is the `Caltech 101 objects dataset <https://data.caltech.edu/records/mzrjq-6wc02/files/caltech-101.zip?download=1>`_.
+The dataset contains 9,144 real-world images belonging to 101 categories.
 About 40 to 800 images per category. The size of each image is roughly 300 x 200 pixels and can be downloaded at the Caltech website.
-When we add the directory of the images to PhotoSense AI, All images in subdirectories will be recursively collected and processed.
+When we add the directory of the images to PhotoSense AI, all images in subdirectories will be recursively collected and processed.
 
 .. note::
 
@@ -42,9 +42,9 @@ When we add the directory of the images to PhotoSense AI, All images in subdirec
 
 
 On my machine (32GB internal memory), this amount of images is clearly the limit of what can be analyzed.
-One way to keep on going it to lower the thumbnail resolution to 64 in the configurations to prevent out-of-memory issues.
-However, when doing so, the low resolution images will have negative impact on the accuracy of the clustering results.
-After waiting a couple of minutes, the thumbnails were loaded and could cluster on **Picture Content** in Step 3.
+One way to keep going is to lower the thumbnail resolution to 64 in the configurations to prevent out-of-memory issues.
+However, when doing so, the low-resolution images will have a negative impact on the accuracy of the clustering results.
+After waiting a couple of minutes, the thumbnails were loaded and could be clustered on **Picture Content** in Step 3.
 
 
 .. |figE2| image:: ../figs/caltech_load.png

@@ -13,9 +13,9 @@ PhotoSenseAI's documentation!
 -----------------------------------
 
 
-**Welcome to the PhotoSense** – your solution for organizing your photo collections with ease using Artificial Intelligence (AI)
+**Welcome to PhotoSense** – your solution for organizing your photo collections with ease using Artificial Intelligence (AI)
 
-Nowadays we have thousands of digital memories which often leads to chaos in finding and organizing photos. At some point, we may even dump all pictures in a “various” directory and then leave it for what it is. This tool is designed to bring order to your chaos!
+Nowadays, we have thousands of digital memories which often leads to chaos in finding and organizing photos. At some point, we may even dump all pictures in a "various" directory and then leave it as is. This tool is designed to bring order to your chaos!
 
 
 .. note::
