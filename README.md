@@ -1,6 +1,6 @@
 ![PhotoSense Main](https://github.com/erdogant/PhotoSenseAI/blob/main/docs/figs/logo.png)
 
-# PhotoSense AI - Organize your memories intelligently.
+# PhotoSenseAI - Organize your memories intelligently.
 
 [![Docs](https://img.shields.io/badge/Sphinx-Docs-Green)](https://erdogant.github.io/PhotoSenseAI/)
 [![Issues](https://img.shields.io/github/issues/erdogant/PhotoSenseAI.svg)](https://github.com/erdogant/PhotoSenseAI/issues)
