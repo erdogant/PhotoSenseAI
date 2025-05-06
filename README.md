@@ -18,11 +18,12 @@ PhotoSenseAI can structure thousands of photos into albums using various AI appr
 
 | Feature | Description |
 |--------|-------------|
-| [**Automatic Clustering**](https://erdogant.github.io/bnlearn/pages/html/Structure%20learning.html) | Group photos by date, location, or visual content using advanced techniques. |
-| [**Privacy**](https://erdogant.github.io/bnlearn/pages/html/Parameter%20learning.html) | This tool runs offline and locally. |
-| [**Custom Labels**](https://pgmpy.org/examples/Causal%20Inference.html) |Rename groups, adjust categories, and organize your images in a way that makes sense to you. |
-| [**Dynamic Thumbnails**](https://erdogant.github.io/bnlearn/pages/html/Sampling.html) | Choose the size of your thumbnails for a customized viewing experience. |
-| [**Photos on Geographical Map**](https://erdogant.github.io/bnlearn/pages/html/Sampling.html) | View your photos on an interactive map to see where your memories were captured. |
+| [**Automatic Grouping**](https://erdogant.github.io/PhotoSenseAI/pages/html/Grouping.html) | Group photos by date, location, or visual content using advanced techniques. |
+| [**Detecting Duplicates**](https://erdogant.github.io/PhotoSenseAI/pages/html/Undoubling.html) | Identify (near-) identical photos. |
+| [**Privacy**](https://erdogant.github.io/PhotoSenseAI/pages/html/Terms%20and%20Conditions.html) | This tool runs offline and locally. |
+| [**Custom Labels**](https://erdogant.github.io/PhotoSenseAI/pages/html/index.html) |Rename groups, adjust categories, and organize your images in a way that makes sense to you. |
+| [**Dynamic Thumbnails**](https://erdogant.github.io/PhotoSenseAI/pages/html/index.html) | Choose the size of your thumbnails for a customized viewing experience. |
+| [**Plot Photos/ Geographical Map**](https://erdogant.github.io/PhotoSenseAI/pages/html/Examples.html) | View your photos on an interactive map to see where your memories were captured. |
 
 ---
 
