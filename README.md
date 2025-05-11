@@ -12,6 +12,11 @@ PhotoSenseAI is a tool to organize photo collections with ease using Artificial 
 PhotoSenseAI can structure thousands of photos into albums using various AI approaches and bring structure in the chaos! Navigate to [API documentations](https://erdogant.github.io/PhotoSenseAI/) for more detailed information. ⭐️ <b>Star it if you like it</b> ⭐️
 </div>
 
+
+---
+
+There are **no costs** in using PhotoSenseAI, but a <a href="https://erdogant.github.io/donate/?currency=USD&amount=5">**coffee donation**</a> will make new versions better! I like coffee!
+
 ---
 
 ### Key Features
@@ -33,9 +38,6 @@ PhotoSenseAI can structure thousands of photos into albums using various AI appr
 - **Documentation:** [Website](https://erdogant.github.io/PhotoSenseAI)
 - **Bug Reports and Feature Requests:** [GitHub Issues](https://github.com/erdogant/PhotoSenseAI/issues)
 
----
-
-There are **no costs** in using PhotoSenseAI, but a <a href="https://erdogant.github.io/donate/?currency=USD&amount=5">**coffee donation**</a> will make new versions better! I like coffee!
 
 ---
 
