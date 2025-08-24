@@ -9,12 +9,16 @@
 <div>
 <a href="https://erdogant.github.io/bnlearn/"><img src="https://github.com/erdogant/PhotoSenseAI/blob/main/docs/figs/logo.png" width="200" align="left" /></a>
 PhotoSenseAI is a tool to organize photo collections with ease using Artificial Intelligence (AI).
-PhotoSenseAI can structure thousands of photos into albums using various AI approaches and bring structure in the chaos! Navigate to [API documentations](https://erdogant.github.io/PhotoSenseAI/) for more detailed information. ⭐️ <b>Star it if you like it</b> ⭐️
+PhotoSenseAI can structure thousands of photos into albums using various AI approaches and bring structure to the chaos! Navigate to the documentation for more detailed information.
 </div>
 
 ---
 
-[👉 Get PhotoSenseAI on Gumroad](https://erdogant.gumroad.com/l/photosenseAI)
+### Resources and Links
+- **Download from GumRoad 👉:** [Download](https://erdogant.gumroad.com/l/photosenseAI)
+- **Blog Posts:** [Medium](https://erdogant.medium.com/)
+- **Documentation:** [Website](https://erdogant.github.io/PhotoSenseAI)
+- **Bug Reports and Feature Requests:** [GitHub Issues](https://github.com/erdogant/PhotoSenseAI/issues)
 
 ---
 
@@ -28,15 +32,6 @@ PhotoSenseAI can structure thousands of photos into albums using various AI appr
 | [**Custom Labels**](https://erdogant.github.io/PhotoSenseAI/pages/html/index.html) |Rename groups, adjust categories, and organize your images in a way that makes sense to you. |
 | [**Dynamic Thumbnails**](https://erdogant.github.io/PhotoSenseAI/pages/html/index.html) | Choose the size of your thumbnails for a customized viewing experience. |
 | [**Plot Photos/ Geographical Map**](https://erdogant.github.io/PhotoSenseAI/pages/html/Examples.html) | View your photos on an interactive map to see where your memories were captured. |
-
----
-
-### Resources and Links
-- **Download link:** [Download](https://erdogant.github.io/PhotoSenseAI/pages/html/Download.html)
-- **Blog Posts:** [Medium](https://erdogant.medium.com/)
-- **Documentation:** [Website](https://erdogant.github.io/PhotoSenseAI)
-- **Bug Reports and Feature Requests:** [GitHub Issues](https://github.com/erdogant/PhotoSenseAI/issues)
-
 
 ---
 
