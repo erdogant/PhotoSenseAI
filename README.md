@@ -1,8 +1,8 @@
 [![Docs](https://img.shields.io/badge/Sphinx-Docs-Green)](https://erdogant.github.io/PhotoSenseAI/)
 [![Issues](https://img.shields.io/github/issues/erdogant/PhotoSenseAI.svg)](https://github.com/erdogant/PhotoSenseAI/issues)
 [![Project Status](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
-![GitHub repo size](https://img.shields.io/github/repo-size/erdogant/PhotoSenseAI)
-[![Donate](https://img.shields.io/badge/Support%20this%20project-grey.svg?logo=github%20sponsors)](https://erdogant.github.io/PhotoSenseAI/pages/html/Documentation.html#)
+[![Download on Gumroad](https://img.shields.io/badge/Download-Gumroad-orange?logo=gumroad)](https://erdogant.gumroad.com/l/photosenseAI)
+
 
 ---
 
@@ -12,10 +12,9 @@ PhotoSenseAI is a tool to organize photo collections with ease using Artificial 
 PhotoSenseAI can structure thousands of photos into albums using various AI approaches and bring structure in the chaos! Navigate to [API documentations](https://erdogant.github.io/PhotoSenseAI/) for more detailed information. ⭐️ <b>Star it if you like it</b> ⭐️
 </div>
 
-
 ---
 
-There are **no costs** in using PhotoSenseAI, but a <a href="https://erdogant.github.io/donate/?currency=USD&amount=5">**coffee donation**</a> will make new versions better! I like coffee!
+[👉 Get PhotoSenseAI on Gumroad](https://erdogant.gumroad.com/l/photosenseAI)
 
 ---
 
@@ -43,11 +42,4 @@ There are **no costs** in using PhotoSenseAI, but a <a href="https://erdogant.gi
 
 ![PhotoSense Main](https://github.com/erdogant/PhotoSenseAI/blob/main/docs/figs/photosense_main.png)
 
----
 
-### Maintainer
-* Erdogan Taskesen, github: [erdogant](https://github.com/erdogant)
-* Contributions are welcome.
-* Yes! This library is entirely **free** but it runs on coffee! :) Feel free to support with a <a href="https://erdogant.github.io/donate/?currency=USD&amount=5">Coffee</a>.
-
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=&slug=erdogant&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/erdogant)
